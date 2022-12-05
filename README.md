@@ -9,6 +9,16 @@ En este repositorio se presenta el proyecto del Modulo 1 que esta comprendido de
 * [Tema 1](https://github.com/andregarza/Proyecto_Modulo1/tree/main/Tema%201):
 En este entregable se define el proyecto, y se escogeran diferentes practicas Agiles que son justificadas, se adjunta el [Readme](https://github.com/andregarza/Proyecto_Modulo1/tree/main/Tema%201) donde esta lo antes mencionado así como el link al [Proyecto de Github](https://github.com/users/andregarza/projects/2/views/1)
 
-* [Tema 2](https://github.com/andregarza/Proyecto_Modulo1/tree/main/Tema%202):
+* Tema 2: Para el entregable de este tema se trabajaron elementos de SCRUM y se defenieron diferentes aspectos del proyecto, se adjunta el [link de Notion](https://scratched-wall-a31.notion.site/Postwork-319951fd5fa04c1cba960c840aefc784) que contiene todo lo antes mencionado.
+
+
+* Tema 3: 
+
+
+* Tema 4: Para este tema se trabajo la instalación de Docker así como el uso de contenedores e imagenes, en el [ link de Notion](https://scratched-wall-a31.notion.site/Postwork-4f23c18b4805479b99449e32f5475b70) se encuentra la evidencia de el trabajo realizado en Docker
+
+* Tema 5: Para este tema se utilizo Git como herramienta y se exploro el uso de esta herramienta para el versionado de codigo, así como el uso de Github, en el [link de Notion](https://scratched-wall-a31.notion.site/Postwork-d9e4f57533d2467ba02fd9d520a53287) se encuentra la evidencia de lo trabajado para el Tema 5
+
+* Tema 6: 
   
  
