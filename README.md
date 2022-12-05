@@ -12,7 +12,7 @@ En este entregable se define el proyecto, y se escogeran diferentes practicas Ag
 * Tema 2: Para el entregable de este tema se trabajaron elementos de SCRUM y se defenieron diferentes aspectos del proyecto, se adjunta el [link de Notion](https://scratched-wall-a31.notion.site/Postwork-319951fd5fa04c1cba960c840aefc784) que contiene todo lo antes mencionado.
 
 
-* Tema 3: 
+* Tema 3: Para este entregable se trabajo en pruebas unitarias, siguiendo el postwork se generaron las siguientes pruebas, el codigo utilizadoo se encuentra en este Repositorio, a su vez se agrega pruebas unitarias realizadas en Python que se realizaron con el afan de ampliar en el tema y el codigo usado se encuentra en el siguiente [Repositorio](https://github.com/andregarza/Unit-Test.git)
 
 
 * Tema 4: Para este tema se trabajo la instalación de Docker así como el uso de contenedores e imagenes, en el [ link de Notion](https://scratched-wall-a31.notion.site/Postwork-4f23c18b4805479b99449e32f5475b70) se encuentra la evidencia de el trabajo realizado en Docker
