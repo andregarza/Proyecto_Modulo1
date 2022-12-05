@@ -19,6 +19,8 @@ En este entregable se define el proyecto, y se escogeran diferentes practicas Ag
 
 * Tema 5: Para este tema se utilizo Git como herramienta y se exploro el uso de esta herramienta para el versionado de codigo, así como el uso de Github, en el [link de Notion](https://scratched-wall-a31.notion.site/Postwork-d9e4f57533d2467ba02fd9d520a53287) se encuentra la evidencia de lo trabajado para el Tema 5
 
-* Tema 6: 
+* [Tema 6](https://github.com/andregarza/my-api-infra.git):  Para el Postwork de este tema se utilizo Terraform para crear infraestructura como codigo así como realizar una instancia en AWS, aparte del [repositorio](https://github.com/andregarza/my-api-infra.git) con el codigo de Terraform se adjunta la evidencia del funcionamiento en este [link de Notion](https://scratched-wall-a31.notion.site/Postwork-1106840b0ee84142bd0b545b386b09ce)
+
+
   
  
