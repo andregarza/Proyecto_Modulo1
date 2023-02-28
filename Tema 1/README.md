@@ -6,9 +6,7 @@ Elige un proyecto que gestiones actualmente y descríbelo en un documento. Puede
 
 - [Alcances](https://www.sinnaps.com/blog-gestion-proyectos/alcance-de-un-proyecto#:~:text=Por%20ejemplo%2C%20nuestro%20objetivo%20puede,o%20ese%20producto%20o%20servicio.) : El alcance del proyecto es terminar el software y que sea posible ser probado en un ambiente de pruebas y que usuarios sean capaces de realizar links para acceder a esta base de datos de películas
 
-Considerando lo visto en la sesión, determina si puedes gestionarlo con prácticas ágiles (Lean o Kanban) y enlista las prácticas que puedes utilizar. Es importante que justifiques esta decisión.
 
-Puedes usar una tabla como la siguiente para ordenar la información con mayor facilidad:
 
 | Practica Ágil que usaré | Justificación |
 | --- | --- |
