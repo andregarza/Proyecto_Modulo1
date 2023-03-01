@@ -13,5 +13,5 @@ Elige un proyecto que gestiones actualmente y descríbelo en un documento. Puede
 | Kanban | Al ser solo un miembro del equipo tiene mucho más sentido trabajar con Kanban ya que requiere menos cambios y cumple el propósito de gestionar el flujo de trabajo, permite entregas de valor incrementales e iterativas sin requerir de varios roles, y permite un trabajo ágil |
 | Lean | Al ser una filosofía con el objetivo de eliminar todo lo que no de valor al cliente seré capaz de mapear los procesos que agregan valor y identificare los que no, y con eso podre priorizar de mejor manera en cada entrega. |
 | CI/CD | Creación de pipeline de integración continua con el objetivo de realizar deployment más frecuentes con el objetivo final de una entrega de valor más continua  |
-| Infraestructura como código | Uso de infraestructura como código con el objetivo de realizar ambientes repetibles controlables y escalables con el objetivo de  |
+| Infraestructura como código | Uso de infraestructura como código con el objetivo de realizar ambientes repetibles controlables y escalables |
 | Creación de contenedores | Creación de contenedores para un mejor empaquetamiento de instancias, así como ambientes reproducibles y escalables  |
